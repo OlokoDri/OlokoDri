@@ -1,4 +1,4 @@
-# Olá, eu sou Adriano 👋
+# Olá, eu sou Adriano! 👋
 
 🎓 Estudante de Engenharia de Software  
 🏭 Operador de Produção na União Química  
