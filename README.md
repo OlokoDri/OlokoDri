@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou Adriano 👋
 
-<!--
-**OlokoDri/OlokoDri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+🏭 Operador de Produção na União Química  
+💻 Aprendendo C, HTML, CSS e JavaScript  
+🚀 Em transição para a área de desenvolvimento
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que estou estudando
+
+- Linguagem C
+- HTML5
+- CSS3
+- JavaScript
+- Git e GitHub
+
+---
+
+## Projetos em destaque
+
+- Super Trunfo em C
+- Cadastro de Cartas
+- Exercícios de lógica
+- Projetos Web
+
+---
+
+## Objetivos
+
+- Evoluir como desenvolvedor
+- Criar projetos completos
+- Conseguir oportunidade na área de tecnologia
