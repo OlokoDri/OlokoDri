@@ -1,3 +1,4 @@
+
 # Olá, eu sou Adriano! 👋
 
 🎓 Estudante de Engenharia de Software  
@@ -27,20 +28,21 @@
 
 ---
 
+## 📞 Contatos:
+<div>
+<a href="https://www.instagram.com/adrianoopereira_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "adrianop800@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/adriano-pereira-de-souza-santos-58860a12b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+---
+
 ## 📌 Projetos em destaque
 
 - Super Trunfo em C
 - Cadastro de Cartas
 - Exercícios de lógica
 - Projetos Web
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlokoDri&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlokoDri&layout=compact)
 
 ---
 
