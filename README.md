@@ -1,10 +1,10 @@
 
 # Olá, eu sou Adriano! 👋
 
-🎓 Estudante de Engenharia de Software  
-🏭 Operador de Produção na União Química  
-💻 Aprendendo C, HTML, CSS, JavaScript e Python 
-🚀 Em transição para a área de programaçao
+🎓 Estudante de Engenharia de Software 
+🏭 Operador de Produção na União Química 
+💻 Aprendendo C, HTML, CSS, JavaScript e Python
+🚀 Em transição para a área de programaçao, focado em Full Stack
 
 ---
 
@@ -39,10 +39,8 @@
 
 ## 📌 Projetos em destaque
 
-- Super Trunfo em C
-- Cadastro de Cartas
-- Exercícios de lógica
-- Projetos Web
+- [🎮 Super Trunfo em C](https://github.com/Cursos-TI/cadastro-cartas-OlokoDri)
+- [⚔️ Clase de Herói](https://github.com/OlokoDri/Classe-de-heroi)
 
 ---
 
