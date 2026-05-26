@@ -1,9 +1,9 @@
 
 # Olá, eu sou Adriano! 👋
 
-🎓 Estudante de Engenharia de Software 
-🏭 Operador de Produção na União Química 
-💻 Aprendendo C, HTML, CSS, JavaScript e Python
+<p>🎓 Estudante de Engenharia de Software</p>
+<p>🏭 Operador de Produção na União Química</p>
+<p></p>💻 Aprendendo C, HTML, CSS, JavaScript e Python</p>
 🚀 Em transição para a área de programaçao, focado em Full Stack
 
 ---
