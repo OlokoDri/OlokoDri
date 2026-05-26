@@ -38,7 +38,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlokoDri&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OlokoDri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlokoDri&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
