@@ -37,7 +37,6 @@
 <p align="center">
 <a href = "adrianop800@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/adriano-pereira-de-souza-santos-58860a12b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href = "https://github.com/OlokoDri"><img loading="lazy" <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
 ---
@@ -45,14 +44,14 @@
 ## 📌 Projetos em destaque
 
 - [🎮 Super Trunfo em C](https://github.com/Cursos-TI/cadastro-cartas-OlokoDri)
-- [⚔️ Clase de Herói](https://github.com/OlokoDri/Classe-de-heroi)
+- [⚔️ Classe de Herói](https://github.com/OlokoDri/Classe-de-heroi)
 - [🏦 Sistema Bancário Simples](https://github.com/OlokoDri/Sistema_banc-rio_simples)
 
 ---
 
 ## 🎯 Atualmente
 
-📚 Cursando Engenharia de Software
-💻 Desenvolvendo projetos para consolidar meus conhecimentos
-🌐 Aprofundando meus estudos em desenvolvimento web
+<p>📚 Cursando Engenharia de Software</p>
+<p>💻 Desenvolvendo projetos para consolidar meus conhecimentos</p>
+<p>🌐 Aprofundando meus estudos em desenvolvimento web</p>
 🚀 Construindo meu portfólio para realizar a transição para a área de tecnologia
