@@ -43,6 +43,7 @@
 
 ## 📌 Projetos em destaque
 
+- [🌐 Minha Primeira Página WEB](https://github.com/OlokoDri/Minha-pagina)
 - [🎮 Super Trunfo em C](https://github.com/Cursos-TI/cadastro-cartas-OlokoDri)
 - [⚔️ Classe de Herói](https://github.com/OlokoDri/Classe-de-heroi)
 - [🏦 Sistema Bancário Simples](https://github.com/OlokoDri/Sistema_banc-rio_simples)
@@ -55,3 +56,21 @@
 <p>💻 Desenvolvendo projetos para consolidar meus conhecimentos</p>
 <p>🌐 Aprofundando meus estudos em desenvolvimento web</p>
 🚀 Construindo meu portfólio para realizar a transição para a área de tecnologia
+
+---
+
+## 🌐 Meu primeiro projeto web
+
+Site desenvolvido utilizando HTML e CSS, com foco em estrutura semântica, estilização, responsividade e organização de layout. Estou aplicando o desenvolvimento dele em minhas férias da faculdade e tempos livres.
+
+## 📸 Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4a4524f1-6654-460d-b249-bf87dbf09c1f" alt="Preview do projeto">
+</p>
+
+## 🔗 Link da Minha Página
+
+<p>
+https://github.com/OlokoDri/Minha-pagina
+</p>
