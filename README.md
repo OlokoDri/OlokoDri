@@ -50,8 +50,9 @@
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Atualmente
 
-- Evoluir como desenvolvedor
-- Criar projetos completos
-- Conseguir oportunidade na área de tecnologia
+📚 Cursando Engenharia de Software
+💻 Desenvolvendo projetos para consolidar meus conhecimentos
+🌐 Aprofundando meus estudos em desenvolvimento web
+🚀 Construindo meu portfólio para realizar a transição para a área de tecnologia
