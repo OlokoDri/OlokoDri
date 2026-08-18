@@ -72,5 +72,5 @@ Site desenvolvido utilizando HTML e CSS, com foco em estrutura semântica, estil
 ## 🔗 Link da Minha Página
 
 <p>
-https://github.com/OlokoDri/Minha-pagina
+https://olokodri.github.io/Minha-pagina/
 </p>
