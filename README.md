@@ -2,9 +2,9 @@
 # Olá, eu sou Adriano! 👋
 
 <p>🎓 Estudante de Engenharia de Software</p>
+<p>💻 Desenvolvedor em formação, estudando C, Python, HTML, CSS e JavaScript</p>
 <p>🏭 Operador de Produção na União Química</p>
-<p></p>💻 Aprendendo C, HTML, CSS, JavaScript e Python</p>
-🚀 Em transição para a área de programaçao, focado em Full Stack
+🚀 Em transição de carreira para tecnologia, com foco em desenvolvimento Full Stack
 
 ---
 
@@ -35,9 +35,9 @@
 ## 📞 Contatos:
 <div>
 <p align="center">
-<a href="https://www.instagram.com/adrianoopereira_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "adrianop800@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/adriano-pereira-de-souza-santos-58860a12b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/adriano-pereira-de-souza-santos-58860a12b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href = "https://github.com/OlokoDri"><img loading="lazy" <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
 ---
